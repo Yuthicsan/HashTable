@@ -131,7 +131,7 @@ public class UC3 {
     }
 
     // Demo
-    public static void main(String[] args)
+    public static void main(String[] args){
 
         UC3 dnsCache = new UC3(5);
 
